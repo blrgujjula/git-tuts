@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is an Example2 file - check it once
+=======
 These is an example2 files.
+>>>>>>> origin/master
